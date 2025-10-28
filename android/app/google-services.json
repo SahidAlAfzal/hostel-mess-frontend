@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251231612639",
+    "project_id": "messbook-b829b",
+    "storage_bucket": "messbook-b829b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251231612639:android:5e50998a6b3b992e45c36a",
+        "android_client_info": {
+          "package_name": "com.example.hostel_mess_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhN2UTAgCusJ64E6mLB6f2fDn2UfEAPSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
